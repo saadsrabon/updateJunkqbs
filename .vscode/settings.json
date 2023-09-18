@@ -1,0 +1,59 @@
+{
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "workbench.colorTheme": "Learn with Sumit Official Theme",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "emmet.triggerExpansionOnTab": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "editor.fontFamily": "Consolas, 'Courier New', monospace ",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.fontSize": 22,
+    "editor.minimap.enabled": false,
+    "explorer.confirmDelete": false,
+    "terminal.integrated.fontSize": 16,
+    "[typescript]": {
+        "editor.defaultFormatter":"vscode.typescript-language-features",
+    
+        
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "diffEditor.renderSideBySide": false,
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "yaml": false,
+        "sql": true
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "workbench.sideBar.location": "right",
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    // "files.autoSave": "afterDelay",
+    "database-client.complectionTriggerKey": [
+
+        " ",
+        "@",
+        "."
+    ],
+    "editor.codeActionsOnSave": {
+    
+        
+
+        
+        
+
+    },
+    "editor.rulers": [
+    
+    ]
+}

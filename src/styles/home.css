@@ -1,0 +1,31 @@
+.herosection{
+   background: url("../assests/images/banner.png") no-repeat center center ;
+   background-size: cover;
+   
+}
+.service-section{
+ 
+   background: url("../assests/images/Vector.png") ,url("../assests/images/Vector\ \(1\).png");
+   background-repeat: no-repeat ,no-repeat;
+   background-position: top right , bottom left;
+ }
+ .card-home{
+   background: url('../assests/images/cardbg.png') no-repeat center center;
+   background-size: 600px; 
+}
+.recycle-section{
+ 
+   background: url("../assests/images/recyclebg.png") no-repeat center center ;
+   background-color: #161C20;
+}
+.contact-section{
+ 
+   background: url("../assests/images/recyclebg.png") no-repeat center center ;
+   background-color: #161C20;
+}
+
+.footer{
+   background: url("../assests/images/Vector\ \(1\).png") no-repeat;
+   background-position: right;
+
+}
